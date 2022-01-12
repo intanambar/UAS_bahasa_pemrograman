@@ -170,7 +170,7 @@ while True:
     else:
         print("Menu yang anda maksud tidak tersedia, Silahkan pilih menu yang tersedia")
 ```
-* Berikut adalah tampilan program berisi menu utama :
+* Berikut adalah tampilan program berisi menu utama : <p>
 ![Gambar3](gambar3.png)
 * Berikut tampilan untuk menambahkan data dengan memasukan angka 1 :
 ![Gambar4](gambar4.png)
@@ -178,9 +178,12 @@ while True:
 * Berikut tampilan untuk untuk mencari data dengan memasukan angka 2 :
 ![Gambar5](gambar5.png)
 * Berikut tampilan untuk menampilkan data dengan memasukan angka 3  :
-![[Gambar7](gambar7.png)
+
+![Gambar7](gambar7.png)
+
 * Berikut adalah tampilan setelah data di ubah :
 ![Gambar8](gambar8.png)
 * Berikut adalah tampilan setelah data di hapus :
 ![Gambar9](gambar9.png)
 * Berikut adalah tampilan ketika program jalan dan masukan angka 6, maka program keluar/selesai
+![Gambar10](gambar10.png)
