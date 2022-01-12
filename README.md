@@ -1,5 +1,5 @@
 # Berikut adalah hasil dari praktikum UAS Bahasa Pemrograman
-Soal :
+
 
 ![Gambar1](gambar1.png) 
 ## Berikut adalah susunan package dan modul yang saya buat :
